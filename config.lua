@@ -1,8 +1,8 @@
 Config = {}
 
 -- Amount of Time to Blackout, in milliseconds
--- 2000 = 2 seconds
-Config.BlackoutTime = 2000
+-- 2000 = 2 seconds / 3500 = 3,5 seconds
+Config.BlackoutTime = 3500
 
 -- Enable blacking out due to vehicle damage
 -- If a vehicle suffers an impact greater than the specified value, the player blacks out
